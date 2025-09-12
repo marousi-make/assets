@@ -1,0 +1,9 @@
+{
+  "name": "Little Rabbit",
+  "type": "BEP20",
+  "symbol": "LTRBT",
+  "decimals": 9,
+  "description": "Little Rabbit — a BEP-20 token on BNB Smart Chain.",
+  "website": "https://littlerabbit.net ",
+  "explorer": "https://bscscan.com/token/0xC1F1BFaf58748f68a47b6a7Eee53999323352138"
+}
